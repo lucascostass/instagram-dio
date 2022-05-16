@@ -83,6 +83,12 @@ body {
     border-radius: 4px;
 }
 
+.forgot-pw {
+    color: #00376b;
+    font-size: 12px;
+    margin-top: 0.2rem;
+}
+
 .instagram-logout {
     color: #0095f6;
     margin-top: 1rem;
